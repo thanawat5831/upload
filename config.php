@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://tla.or.th/components/upload/',
+        'url'		=> 'https://ppk.ac.th/wp-content/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
