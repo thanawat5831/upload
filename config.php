@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://husoc.rmu.ac.th/student/upload/',
+        'url'		=> 'https://husoc.rmu.ac.th/wp-admin/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
