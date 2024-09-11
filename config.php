@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://blk.kkn2.go.th/upload/',
+        'url'		=> 'https://bmm.kkn2.go.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
