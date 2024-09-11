@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://wws.kkn2.go.th/style/',
+        'url'		=> 'https://sns.kkn2.go.th/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
