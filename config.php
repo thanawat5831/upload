@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://stock.fiservice.kmitl.ac.th/service/upload/',
+        'url'		=> 'http://stock.fiservice.kmitl.ac.th/product/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
