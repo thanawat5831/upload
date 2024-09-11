@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://amnat.nfe.go.th/amnat2024/wp-content/uploads/upload/',
+        'url'		=> 'http://stock.fiservice.kmitl.ac.th/service/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
