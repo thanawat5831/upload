@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://itsc2.rsu.ac.th/csrsucon/upload/',
+        'url'		=> 'https://blk.kkn2.go.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
