@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://artculture.msu.ac.th/upload/',
+        'url'		=> 'https://thaiimplant.doa.go.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
