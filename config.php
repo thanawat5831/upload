@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://cns.kkn2.go.th/upload/',
+        'url'		=> 'https://dms.kkn2.go.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
