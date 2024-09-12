@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://budget.kkn2.go.th/upload/',
+        'url'		=> 'https://cbk.kkn2.go.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
