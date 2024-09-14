@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://artculture.msu.ac.th/forms/upload/',
+        'url'		=> 'https://njb.kkn2.go.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
