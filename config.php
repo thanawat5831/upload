@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://mangt.pcru.ac.th/upload/',
+        'url'		=> 'https://stock.fiservice.kmitl.ac.th/xampp/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
