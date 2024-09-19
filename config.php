@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://bnk.kkn2.go.th/upload/',
+        'url'		=> 'https://mangt.pcru.ac.th/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
