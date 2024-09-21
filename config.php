@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://production.pcru.ac.th/Paper/upload/',
+        'url'		=> 'https://production.pcru.ac.th/uploads/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
