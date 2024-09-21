@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://division.dwr.go.th/upload/',
+        'url'		=> 'https://division.dwr.go.th/ictc/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
