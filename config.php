@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://office.phatthalung2.go.th/smart/upload/',
+        'url'		=> 'http://amssspmphrae.sesa37.go.th/amssplus/FusionCharts/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
