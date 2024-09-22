@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://division.dwr.go.th/ictc/upload/',
+        'url'		=> 'http://office.phatthalung2.go.th/smart/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
