@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://dsd.pcru.ac.th/research/assets/upload/',
+        'url'		=> 'https://ge.lru.ac.th/research/assets/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
