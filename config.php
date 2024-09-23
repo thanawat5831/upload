@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://amssspmphrae.sesa37.go.th/amssplus/FusionCharts/upload/',
+        'url'		=> 'https://nurse.sskru.ac.th/well-known/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
