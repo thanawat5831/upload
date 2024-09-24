@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://ge.lru.ac.th/research/assets/upload/',
+        'url'		=> 'http://wwwlbo.moph.go.th/newweb/cache/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
