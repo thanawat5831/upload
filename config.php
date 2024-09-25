@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://amssspmphrae.sesa37.go.th/filespmphrae/upload/',
+        'url'		=> 'https://news.rbru.ac.th/images/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
