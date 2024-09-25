@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://plan.pcru.ac.th/wp-content/upload/',
+        'url'		=> 'http://office.phatthalung2.go.th/2563/upload/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
